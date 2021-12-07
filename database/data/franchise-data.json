@@ -1,0 +1,19 @@
+[
+  {
+    "ownerID": "60",
+    "location": "Manukau",
+    "parking": "YES"
+    
+  },
+  {
+    "ownerID": "61",
+    "location": "Papatoetoe",
+    "parking": "YES"
+    
+  },
+  {
+    "ownerID": "62",
+    "location": "Panmure",
+    "parking": "NO"
+  }
+]

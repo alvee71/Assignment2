@@ -1,0 +1,20 @@
+[
+    {
+      "employeeID": "1234",
+      "name": "Anthony",
+      "phone": "022158754",
+      "franchiseID": "17"
+    },
+    {
+      "employeeID": "1235",
+      "name": "Hoeni",
+      "phone": "02258787",
+      "franchiseID": "18"
+    },
+    {
+      "employeeID": "1236",
+      "name": "Jamal",
+      "phone": "01711558",
+      "franchiseID": "19"
+    }
+  ]

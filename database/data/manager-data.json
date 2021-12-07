@@ -1,0 +1,23 @@
+[
+  {
+    "FirstName": "Rafsan",
+    "LastName": "Ahmed",
+    "email": "rafsan@gmail.com",
+    "phone": "028458754",
+    "franchiseID": "17"
+  },
+  {
+    "FirstName": "Sanim",
+    "LastName": "Pokhrel",
+    "email": "sanim@gmail.com",
+    "phone": "022178754",
+    "franchiseID": "18"
+  },
+  {
+    "FirstName": "Jamal",
+    "LastName": "Bhuiyan",
+    "email": "jamal@gmail.com",
+    "phone": "022555225",
+    "franchiseID": "19"
+  }
+]

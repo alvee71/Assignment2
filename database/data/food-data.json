@@ -1,0 +1,23 @@
+[
+  {
+    "foodname": "SandwichBeef",
+    "foodID": "1",
+    "foodtype": "10",
+    "foodcost": "8",
+    "franchiseID": "17"
+  },
+  {
+    "foodname": "SandwichChicken",
+    "foodID": "2",
+    "foodtype": "10",
+    "foodcost": "8",
+    "franchiseID":"17"
+  },
+  {
+    "foodname": "Fried Rice",
+    "foodID": "3",
+    "foodtype": "20",
+    "foodcost": "12",
+    "franchiseID":"19"
+  }
+]

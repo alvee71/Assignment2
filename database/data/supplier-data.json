@@ -1,0 +1,23 @@
+[
+  {
+    "sname": "Mahesh",
+    "email": "mahesh@gmail.com",
+    "phone": "02215854",
+    "scompany": "01711558",
+    "franchiseID": "17"
+  },
+  {
+    "sname": "Jigesh",
+    "email": "jigesh@gmail.com",
+    "phone": "02254787",
+    "scompany": "01711558",
+    "franchiseID": "18"
+  },
+  {
+    "sname": "Jitender",
+    "email": "jitender@gmail.com",
+    "phone": "0175588",
+    "scompany": "01711558",
+    "franchiseID": "19"
+  }
+]
