@@ -3,7 +3,9 @@
 /public/storage
 /storage/*.key
 /vendor
-.env
+git add .
+git commit -m 'change ignore'4
+git push origin master
 .env.backup
 .phpunit.result.cache
 docker-compose.override.yml
