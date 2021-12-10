@@ -33,12 +33,14 @@ class EmployeeController extends Controller
      */
     public function store(Request $request)
     {
+		/*
         $request->validate([
             'employeeID' => 'required',
             'name' => 'required',
             'phone' => 'required',
             'franchiseID' => 'required'
         ]);
+		*/
         return Employee::create($request->all());
     
         
