@@ -20,7 +20,7 @@ class CreateEmployeesTable extends Migration
             $table->integer('phone');
 			$table->integer('franchiseID')->unsigned()->index();
             //$table->foreignId('franchiseID')->constrained('franchises')->onDelete('cascade')->onUpdate('cascade');
-			$table->foreignId('franchiseID')->references('id')->on('franchises')->onDelete('cascade')->onUpdate('cascade');
+			$table->foreign('franchiseID')->references('id')->on('franchises')->onDelete('cascade')->onUpdate('cascade');
             $table->timestamps();
         });
     }
